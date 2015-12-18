@@ -12,6 +12,6 @@ J'ai à mon compte 87 badges sur Codeacademy.
 * Learn Java
 * Ruby
 
-# Liens de mes badges:  
+## Liens de mes badges:  
 
 https://www.codecademy.com/fr/users/stevanparisian/achievements
