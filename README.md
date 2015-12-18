@@ -1,8 +1,8 @@
-# Mes badges à Codeacademy  
+## Mes badges à Codeacademy  
 
 J'ai à mon compte 87 badges sur Codeacademy.  
 
-# Mes compétences complétées:  
+## Mes compétences complétées:  
 
 * HTML & CSS  
 * JavaScript
